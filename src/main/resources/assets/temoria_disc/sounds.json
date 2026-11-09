@@ -1,0 +1,426 @@
+{
+  "music.adventuring": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/adventuring",
+        "stream": true
+      }
+    ]
+  },
+  "music.arcticwinds": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/arcticwinds",
+        "stream": true
+      }
+    ]
+  },
+  "music.building": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/building",
+        "stream": true
+      }
+    ]
+  },
+  "music.chilly_village": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/chilly_village",
+        "stream": true
+      }
+    ]
+  },
+  "music.creating": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/creating",
+        "stream": true
+      }
+    ]
+  },
+  "music.culturedtavern": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/culturedtavern",
+        "stream": true
+      }
+    ]
+  },
+  "music.daylight": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/daylight",
+        "stream": true
+      }
+    ]
+  },
+  "music.devastation_baselayer": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/devastation_baselayer",
+        "stream": true
+      }
+    ]
+  },
+  "music.devastation_bellsandrust": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/devastation_bellsandrust",
+        "stream": true
+      }
+    ]
+  },
+  "music.devastation_erelfight": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/devastation_erelfight",
+        "stream": true
+      }
+    ]
+  },
+  "music.devastation_erelharrass": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/devastation_erelharrass",
+        "stream": true
+      }
+    ]
+  },
+  "music.fall": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/fall",
+        "stream": true
+      }
+    ]
+  },
+  "music.fall_o_croft": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/fall_o_croft",
+        "stream": true
+      }
+    ]
+  },
+  "music.groove": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/groove",
+        "stream": true
+      }
+    ]
+  },
+  "music.hallowcroft": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/hallowcroft",
+        "stream": true
+      }
+    ]
+  },
+  "music.heartbeat_create": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/heartbeat_create",
+        "stream": true
+      }
+    ]
+  },
+  "music.heartbeat_survive": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/heartbeat_survive",
+        "stream": true
+      }
+    ]
+  },
+  "music.latvia": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/latvia",
+        "stream": true
+      }
+    ]
+  },
+  "music.midnight": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/midnight",
+        "stream": true
+      }
+    ]
+  },
+  "music.mirror": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/mirror",
+        "stream": true
+      }
+    ]
+  },
+  "music.nadiya_fall": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/nadiya_fall",
+        "stream": true
+      }
+    ]
+  },
+  "music.nadiya_spring": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/nadiya_spring",
+        "stream": true
+      }
+    ]
+  },
+  "music.nadiya_summer": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/nadiya_summer",
+        "stream": true
+      }
+    ]
+  },
+  "music.nadiya_winter": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/nadiya_winter",
+        "stream": true
+      }
+    ]
+  },
+  "music.night_to_day": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/night_to_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.nostalgic": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/nostalgic",
+        "stream": true
+      }
+    ]
+  },
+  "music.peaceful_village": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/peaceful_village",
+        "stream": true
+      }
+    ]
+  },
+  "music.quirkytavern": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/quirkytavern",
+        "stream": true
+      }
+    ]
+  },
+  "music.radianceandrust": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/radianceandrust",
+        "stream": true
+      }
+    ]
+  },
+  "music.roots": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/roots",
+        "stream": true
+      }
+    ]
+  },
+  "music.safety_of_a_warm_fire": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/safety_of_a_warm_fire",
+        "stream": true
+      }
+    ]
+  },
+  "music.setting_sun": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/setting_sun",
+        "stream": true
+      }
+    ]
+  },
+  "music.spring": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/spring",
+        "stream": true
+      }
+    ]
+  },
+  "music.substitute_epitaph": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/substitute_epitaph",
+        "stream": true
+      }
+    ]
+  },
+  "music.summer_day": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/summer_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.summer_stroll": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/summer_stroll",
+        "stream": true
+      }
+    ]
+  },
+  "music.sunny_village": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/sunny_village",
+        "stream": true
+      }
+    ]
+  },
+  "music.sunny_village_create": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/sunny_village_create",
+        "stream": true
+      }
+    ]
+  },
+  "music.sunny_village_survive": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/sunny_village_survive",
+        "stream": true
+      }
+    ]
+  },
+  "music.the_lazaret": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/the_lazaret",
+        "stream": true
+      }
+    ]
+  },
+  "music.the_seraphs": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/the_seraphs",
+        "stream": true
+      }
+    ]
+  },
+  "music.theinvention": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/theinvention",
+        "stream": true
+      }
+    ]
+  },
+  "music.theresonancearchives_barren": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/theresonancearchives_barren",
+        "stream": true
+      }
+    ]
+  },
+  "music.theresonancearchives_eidolon": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/theresonancearchives_eidolon",
+        "stream": true
+      }
+    ]
+  },
+  "music.theresonancearchives_library": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/theresonancearchives_library",
+        "stream": true
+      }
+    ]
+  },
+  "music.through_the_grass_create": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/through_the_grass_create",
+        "stream": true
+      }
+    ]
+  },
+  "music.through_the_grass_survive": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/through_the_grass_survive",
+        "stream": true
+      }
+    ]
+  },
+  "music.to_dawn": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/to_dawn",
+        "stream": true
+      }
+    ]
+  },
+  "music.tobias": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/tobias",
+        "stream": true
+      }
+    ]
+  },
+  "music.vintagestory": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/vintagestory",
+        "stream": true
+      }
+    ]
+  },
+  "music.windy_village": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/windy_village",
+        "stream": true
+      }
+    ]
+  },
+  "music.winter": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/winter",
+        "stream": true
+      }
+    ]
+  },
+  "music.noah_tes_ban": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/noah_tes_ban",
+        "stream": true
+      }
+    ]
+  }
+}

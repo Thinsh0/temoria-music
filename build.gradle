@@ -24,14 +24,6 @@ java {
     }
 }
 
-sourceSets {
-    main {
-        resources {
-            srcDirs = ['src/generated/core']
-        }
-    }
-}
-
 neoForge {
     version = neoforge_version
 
@@ -57,30 +49,4 @@ dependencies {
 tasks.named('jar', Jar) {
     archiveBaseName = 'temoria_disc'
     archiveVersion = '1.0.0'
-    exclude 'com/temoria/disc/vol1/**'
-    exclude 'com/temoria/disc/vol2/**'
-}
-
-tasks.register('jarVol1', Jar) {
-    archiveBaseName = 'temoria_disc_vs_vol1'
-    archiveVersion = '1.0.0'
-    destinationDirectory = layout.buildDirectory.dir('libs')
-    from(sourceSets.main.output.classesDirs) {
-        include 'com/temoria/disc/vol1/**'
-    }
-    from 'src/generated/vol1'
-}
-
-tasks.register('jarVol2', Jar) {
-    archiveBaseName = 'temoria_disc_vs_vol2'
-    archiveVersion = '1.0.0'
-    destinationDirectory = layout.buildDirectory.dir('libs')
-    from(sourceSets.main.output.classesDirs) {
-        include 'com/temoria/disc/vol2/**'
-    }
-    from 'src/generated/vol2'
-}
-
-tasks.named('assemble').configure {
-    dependsOn 'jarVol1', 'jarVol2'
 }

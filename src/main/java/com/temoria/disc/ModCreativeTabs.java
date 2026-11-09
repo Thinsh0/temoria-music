@@ -6,7 +6,6 @@ import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
 import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
@@ -23,20 +22,11 @@ public class ModCreativeTabs {
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> VINTAGE_STORY_TAB =
             CREATIVE_MODE_TABS.register("vintage_story_discs", () -> CreativeModeTab.builder()
                     .title(Component.translatable("itemGroup.temoria_disc.vintage_story"))
-                    .icon(() -> {
-                        var vsDisc = net.minecraft.core.registries.BuiltInRegistries.ITEM.get(
-                                ResourceLocation.fromNamespaceAndPath(TemoriaDiscMod.MOD_ID, "music_disc_vintagestory")
-                        );
-                        if (vsDisc != Items.AIR) {
-                            return new ItemStack(vsDisc);
+                    .icon(() -> new ItemStack(ModItems.DISC_VINTAGESTORY.get()))
+                    .displayItems((params, output) -> {
+                        for (var disc : ModItems.VINTAGE_STORY_DISCS) {
+                            output.accept(disc.get());
                         }
-                        for (var item : net.minecraft.core.registries.BuiltInRegistries.ITEM) {
-                            var key = net.minecraft.core.registries.BuiltInRegistries.ITEM.getKey(item);
-                            if (key != null && key.getNamespace().equals(TemoriaDiscMod.MOD_ID) && key.getPath().startsWith("music_disc_")) {
-                                return new ItemStack(item);
-                            }
-                        }
-                        return new ItemStack(Items.MUSIC_DISC_CAT);
                     })
                     .build());
 
@@ -45,7 +35,9 @@ public class ModCreativeTabs {
                     .title(Component.translatable("itemGroup.temoria_disc.temoria"))
                     .icon(() -> new ItemStack(ModItems.DISC_NOAH_TES_BAN.get()))
                     .displayItems((params, output) -> {
-                        output.accept(ModItems.DISC_NOAH_TES_BAN.get());
+                        for (var disc : ModItems.TEMORIA_DISCS) {
+                            output.accept(disc.get());
+                        }
                     })
                     .build());
 }
