@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.tobias",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.tobias"
+  },
+  "length_in_seconds": 188.7,
+  "comparator_output": 15
+}

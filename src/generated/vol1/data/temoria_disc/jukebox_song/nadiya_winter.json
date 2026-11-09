@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.nadiya_winter",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.nadiya_winter"
+  },
+  "length_in_seconds": 147.6,
+  "comparator_output": 15
+}

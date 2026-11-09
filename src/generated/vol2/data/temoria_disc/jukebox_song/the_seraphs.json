@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.the_seraphs",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.the_seraphs"
+  },
+  "length_in_seconds": 143.8,
+  "comparator_output": 15
+}

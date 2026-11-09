@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.creating",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.creating"
+  },
+  "length_in_seconds": 187.0,
+  "comparator_output": 15
+}

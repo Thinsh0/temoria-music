@@ -1,0 +1,10 @@
+{
+  "music.noah_tes_ban": {
+    "sounds": [
+      {
+        "name": "temoria_disc:music/noah_tes_ban",
+        "stream": true
+      }
+    ]
+  }
+}

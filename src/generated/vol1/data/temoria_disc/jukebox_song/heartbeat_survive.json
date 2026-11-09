@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.heartbeat_survive",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.heartbeat_survive"
+  },
+  "length_in_seconds": 283.1,
+  "comparator_output": 15
+}

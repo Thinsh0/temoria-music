@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.theresonancearchives_barren",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.theresonancearchives_barren"
+  },
+  "length_in_seconds": 455.1,
+  "comparator_output": 15
+}

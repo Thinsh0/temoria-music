@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.latvia",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.latvia"
+  },
+  "length_in_seconds": 257.1,
+  "comparator_output": 15
+}

@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.to_dawn",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.to_dawn"
+  },
+  "length_in_seconds": 314.6,
+  "comparator_output": 15
+}

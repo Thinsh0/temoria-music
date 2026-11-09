@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.theresonancearchives_library",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.theresonancearchives_library"
+  },
+  "length_in_seconds": 455.1,
+  "comparator_output": 15
+}

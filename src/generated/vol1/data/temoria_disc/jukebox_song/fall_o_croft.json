@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.fall_o_croft",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.fall_o_croft"
+  },
+  "length_in_seconds": 211.1,
+  "comparator_output": 15
+}

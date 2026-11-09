@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.the_lazaret",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.the_lazaret"
+  },
+  "length_in_seconds": 653.0,
+  "comparator_output": 15
+}

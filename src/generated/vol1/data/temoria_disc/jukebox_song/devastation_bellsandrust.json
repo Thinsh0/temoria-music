@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.devastation_bellsandrust",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.devastation_bellsandrust"
+  },
+  "length_in_seconds": 296.4,
+  "comparator_output": 15
+}

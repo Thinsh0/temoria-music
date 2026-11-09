@@ -1,0 +1,10 @@
+.gradle/
+build/
+bin/
+out/
+.idea/
+*.iml
+.vscode/
+run/
+vintage_story_music.zip
+create_music_pack.py

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "temoria_disc:item/music_disc_nadiya_winter"
+  }
+}

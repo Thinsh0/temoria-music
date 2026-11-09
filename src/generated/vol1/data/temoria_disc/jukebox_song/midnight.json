@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.midnight",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.midnight"
+  },
+  "length_in_seconds": 137.5,
+  "comparator_output": 15
+}

@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="temoria_disc_vs_vol2"
+version="1.0.0"
+displayName="Temoria Discs - Vintage Story Vol 2"
+authors="Thinsho"
+description='''Vintage Story OST Music Discs (Volume 2)'''
+
+[[dependencies.temoria_disc_vs_vol2]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.temoria_disc_vs_vol2]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.temoria_disc_vs_vol2]]
+modId="temoria_disc"
+type="required"
+versionRange="[1.0.0,)"
+ordering="AFTER"
+side="BOTH"

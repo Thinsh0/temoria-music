@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.nadiya_summer",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.nadiya_summer"
+  },
+  "length_in_seconds": 220.1,
+  "comparator_output": 15
+}

@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.sunny_village_survive",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.sunny_village_survive"
+  },
+  "length_in_seconds": 204.0,
+  "comparator_output": 15
+}

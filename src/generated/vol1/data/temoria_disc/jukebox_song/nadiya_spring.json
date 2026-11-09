@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.nadiya_spring",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.nadiya_spring"
+  },
+  "length_in_seconds": 220.5,
+  "comparator_output": 15
+}

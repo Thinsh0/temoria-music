@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.substitute_epitaph",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.substitute_epitaph"
+  },
+  "length_in_seconds": 232.0,
+  "comparator_output": 15
+}

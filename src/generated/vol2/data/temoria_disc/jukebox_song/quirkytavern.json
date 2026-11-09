@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.quirkytavern",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.quirkytavern"
+  },
+  "length_in_seconds": 143.2,
+  "comparator_output": 15
+}

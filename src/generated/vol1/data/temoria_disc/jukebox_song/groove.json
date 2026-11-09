@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.groove",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.groove"
+  },
+  "length_in_seconds": 211.6,
+  "comparator_output": 15
+}

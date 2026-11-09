@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.devastation_erelfight",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.devastation_erelfight"
+  },
+  "length_in_seconds": 296.4,
+  "comparator_output": 15
+}

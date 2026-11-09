@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.fall",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.fall"
+  },
+  "length_in_seconds": 565.1,
+  "comparator_output": 15
+}

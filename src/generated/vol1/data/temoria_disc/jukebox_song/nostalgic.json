@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.nostalgic",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.nostalgic"
+  },
+  "length_in_seconds": 334.4,
+  "comparator_output": 15
+}

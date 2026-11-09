@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.chilly_village",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.chilly_village"
+  },
+  "length_in_seconds": 239.2,
+  "comparator_output": 15
+}

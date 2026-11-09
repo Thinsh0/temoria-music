@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.hallowcroft",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.hallowcroft"
+  },
+  "length_in_seconds": 341.3,
+  "comparator_output": 15
+}

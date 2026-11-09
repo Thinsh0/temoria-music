@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.summer_stroll",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.summer_stroll"
+  },
+  "length_in_seconds": 318.7,
+  "comparator_output": 15
+}

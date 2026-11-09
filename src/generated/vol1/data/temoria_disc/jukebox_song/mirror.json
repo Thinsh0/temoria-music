@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.mirror",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.mirror"
+  },
+  "length_in_seconds": 248.9,
+  "comparator_output": 15
+}

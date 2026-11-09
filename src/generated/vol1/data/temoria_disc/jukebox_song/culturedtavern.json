@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.culturedtavern",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.culturedtavern"
+  },
+  "length_in_seconds": 315.6,
+  "comparator_output": 15
+}

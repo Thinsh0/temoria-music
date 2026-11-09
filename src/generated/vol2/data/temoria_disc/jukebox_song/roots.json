@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.roots",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.roots"
+  },
+  "length_in_seconds": 228.2,
+  "comparator_output": 15
+}

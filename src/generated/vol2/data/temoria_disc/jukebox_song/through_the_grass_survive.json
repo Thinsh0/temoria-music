@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.through_the_grass_survive",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.through_the_grass_survive"
+  },
+  "length_in_seconds": 125.8,
+  "comparator_output": 15
+}

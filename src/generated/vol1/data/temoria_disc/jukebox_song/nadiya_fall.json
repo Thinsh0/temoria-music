@@ -1,0 +1,8 @@
+{
+  "sound_event": "temoria_disc:music.nadiya_fall",
+  "description": {
+    "translate": "jukebox_song.temoria_disc.nadiya_fall"
+  },
+  "length_in_seconds": 158.7,
+  "comparator_output": 15
+}
